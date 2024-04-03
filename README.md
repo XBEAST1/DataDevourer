@@ -39,6 +39,7 @@ sudo bash data-devourer.sh
 <p>The tool offers a wide range of features and functionality, including:</p>
 <ul>
    <li>Automated Data Sniping</li>
+   <li>URL Redirection</li>
    <li>Domain Spoofing</li>
    <li>Custom Template Support</li>
    <li>Easy To Use</li>
